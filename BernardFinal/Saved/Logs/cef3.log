@@ -1,0 +1,7 @@
+[0517/162543.017:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 367
+[0517/162707.997:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0518/093922.091:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0518/093922.116:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0518/110142.788:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0518/110142.791:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0518/123749.318:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
